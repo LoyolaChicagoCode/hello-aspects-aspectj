@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>AspectJHelloAspects</name>
+	<name>hello-aspects-aspectj</name>
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 		<buildCommand>
-			<name>org.eclipse.ajdt.core.ajbuilder</name>
+			<name>hello-aspects-aspectj</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
